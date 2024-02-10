@@ -175,7 +175,7 @@ var config_data = `
       "type": "bool"
     },
     { "name": "Make good<br>alliance partner?",
-      "tooltip": "Would you want this robot on your alliance in eliminations?",
+      "tooltip": "Would you want this robot on your alliance in playoffs?",
       "code": "all",
       "type": "bool"
     },
