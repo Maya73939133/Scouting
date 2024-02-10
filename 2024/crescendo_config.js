@@ -2,7 +2,7 @@ var config_data = `
 {
   "dataFormat": "tsv",
   "title": "ZooBOTix Scouting",
-  "page_title": "Crescendo",
+  "page_title": "ZooBOTix Scouting",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Name",
