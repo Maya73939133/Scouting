@@ -179,7 +179,7 @@ var config_data = `
       "code": "all",
       "type": "bool"
     },
-    { "name": "Comments",
+    { "name": "Notes",
       "code": "co",
       "type": "text",
       "size": 15,
